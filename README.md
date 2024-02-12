@@ -1,8 +1,5 @@
 # keyboard
-
-## 
-
-firmware.he
+keebio quefrency65 1.2のfirmware書き込み手順
 
 ## 手順　
 ###
