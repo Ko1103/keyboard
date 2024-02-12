@@ -1,3 +1,6 @@
+<img src="https://github.com/Ko1103/keyboard/blob/main/assets/keyboard.jpeg?raw=true" >
+
+
 # keyboard
 keebio quefrency65 1.2のfirmware書き込み手順
 
